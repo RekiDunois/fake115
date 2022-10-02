@@ -2,7 +2,7 @@
 // @name         fake 115Browser download
 // @version      1.0.2
 // @description  伪装115浏览器下载
-// @author       w9592447
+// @author       ww9592447
 // @match        *://115.com/*
 // @match        *://v.anxia.com/*
 // @grant        GM_xmlhttpRequest
